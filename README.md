@@ -12,8 +12,10 @@ Interactive Interface: Provides an intuitive and interactive user interface for 
 
 **Installation**
 Clone the Repository:
+'''bash
+1.git clone https://github.com/PynaPavani/vitals-based-movie-recommendation-system.git
+'''
 
-1.git clone https://github.com/your-username/vitals-based-movie-recommendation-system.git
 2.cd vitals-based-movie-recommendation-system
 
 3.Install Dependencies:
