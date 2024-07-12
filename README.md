@@ -1,4 +1,4 @@
-**#Overview**
+**Overview**
 
 
 The Vitals-Based Movie Recommendation System is an innovative application that suggests movies to users based on their vital signs, such as heart rate, blood pressure, and activity levels. By integrating health data with movie preferences, this system aims to provide personalized recommendations that cater to the user's current physical and emotional state.
